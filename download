@@ -1,0 +1,9 @@
+# build output
+build/
+*.o
+*.exe
+
+# customer data must never be committed
+data/
+*.dat
+*.dat.tmp
